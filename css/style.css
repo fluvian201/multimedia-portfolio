@@ -600,6 +600,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Featured Services Section
 --------------------------------*/
 
+.embed-responsive-9by16 {
+  padding-top: 120.78%; /* 16/9 * 100 */
+}
+
 #featured-services {
   background: #000;
 }
